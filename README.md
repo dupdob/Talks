@@ -17,10 +17,29 @@ This is a list of topics that are adapted to the BBL format.
 
 ## Lego Craftsmanship
 This BBL is an introduction to Software Craftsmanship, offering
-first hand experience of what is simplicity, Test Driven Development as well as Technical Debt
+first hand experience of what is simplicity, Test Driven Development as well as Technical Debt.
+Based on series of Lego based exercises, this session generates engagement
+through sheer fun.
 
-- dates:
+- Dates:
   - Summer 2016, Société Générale (8 attendees): initial version
-  - September 24th, 2016, Wakanda (20 attendees)
+  - September 24th, 2016, Wakanda (~20 attendees)
   - September 22nd, 2016, at Voyages-sncf.com (14 attendees)
   - March 21st, 2017, at Direct assurance (10 attendees)
+  - April Z1st, 20017, at Ventes privées (to come)
+
+## Introduction to reactive programming, a.k.a Pasta Pricer
+This BBL, which I co host with @Thomas_Pierrain, guides the audience through
+the difficult exercise of designing a reactive system. It also highlights the multiple benefits of choosing an event-driven architecture for performance
+sensitive systems.
+- Dates:
+  - April 2014: Devoxx Paris, ~200 attendees
+  - Presented also at Criteo, Murex, Air France, Meetic, Finaxis, Société Générale,
+
+## XP Renaissance
+
+
+## NFluent presentation
+
+
+## Change management
