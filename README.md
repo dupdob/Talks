@@ -1,7 +1,7 @@
 # Talks
 Repository for my talks and various documents.
 
-[Bio](Bio.MD)
+# [Bio](Bio.MD)
 
 # BBLs
 This is a list of topics that are adapted to the BBL format.
