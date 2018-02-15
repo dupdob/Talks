@@ -9,5 +9,5 @@ But you are a **rare** beast, and you are key to the survival of the whole coder
 * _Everyone_ one needs your experience and expertise.
 
 If you are ready to leave your confort zone and do more,
-I will explain to you why IT needs you to do more and how you can help.
+I will explain to you why IT needs you as well as where and how you can help.
 And of course, it will be a fun ride all along!
