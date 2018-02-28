@@ -7,10 +7,11 @@ Repository for my talks and various documents.
 This is a list of topics that are adapted to the BBL format.
 
 # [Lego Craftsmanship](LegoCraftsmanship.md)
+This workshop introduce people to craftsmanship values and practices (Dev and non dev profile)
 
 # [Introduction to reactive programming, a.k.a Pasta Pricer](PastaPricer.md)
-This BBL, which I co host with @Tpierrain, guides the audience through
-the difficult exercise of designing a reactive system.
+This BBL guides the audience through the difficult exercise of designing a reactive system (Dev profile).
+
 ## XP Renaissance
 This BBL introduce what is eXtreme Programming and what it brings to development practices
 -Dates:
