@@ -17,11 +17,11 @@ And of course, it will be **a fun ride** all along!
 ___
 # Espèces en voie de disparition: _Senior Craftsmen_
 Il n'y a pas assez de **Senior Craftsmen**. En conséquences, les très nombreux développeurs débutants ne sont pas assez accompagnés.
-**Ils sont donc condamnés à répéter l'histoire, alors qu'il pourrait bâtir le futur**.
+**Sont-ils condamnés à répéter l'histoire, alors qu'ils pourraient bâtir le futur?**.
 
-La bonne nouvelle c'est que vous avez probablement plus d'influence que vous ne le pensez. Vous êtes en situation de faire bouger les autres, impacter l'industrie, changer des vies et même le Monde lui-même. Laissez-moi vous montrer **pourquoi, où et comment**.
+La bonne nouvelle c'est que **vous avez** probablement **plus d'influence que vous ne le pensez**. Vous êtes en situation de faire bouger les autres, impacter l'industrie, changer des vies et même le Monde lui-même. Laissez-moi vous montrer **pourquoi, où et comment**.
 
-Puisque vous êtes venus assister à cette conférence, vous avez déjà un certain regard, probablement accompagné d'une solide expérience, des connaissances, des bonnes pratiques et d'autres talents. Et vous aidez sans doute vos collègues ou encore vous partagez vos connaissances.
+Puisque vous êtes venus assister à cette conférence, vous avez déjà un certain regard, probablement accompagné d'une solide expérience, de connaissances, de bonnes pratiques et d'autres talents. Et vous aidez sans doute vos collègues ou encore vous partagez vos connaissances.
 
 Mais vous êtes un specimen **rare**, et vous êtes clef pour les autres:
 * Les _Juniors_ ont besoin de votre aide
