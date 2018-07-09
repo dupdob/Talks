@@ -16,3 +16,4 @@ In french: [On SpeakerDeck](https://speakerdeck.com/dupdob/software-craftsmanshi
 * July, 7th, 2017 at Aneo (20 attendees)
 * February 12th, 2018, at Direct Assurance (20 attendees)
 * February 21st, 2018, at Société Générale (12 attendees)
+* July 5th, 2018, at Fluo (13)

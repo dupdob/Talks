@@ -8,6 +8,7 @@ To be published
 ## Dates:
 * April 2014: Devoxx Paris, ~200 attendees
 * May 5th, 2017, at Ventes privées
+* June 2018, at Younited Credit
 * Presented also at
   * Criteo
   * Murex
@@ -16,3 +17,4 @@ To be published
   * Finaxis
   * Société Générale
   * PerfUG
+  
