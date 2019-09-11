@@ -38,7 +38,7 @@ performante et fiable. Auteur.
 * [Rafting](https://github.com/dupdob/RAFTiNG): implémentation en C# de l'algorithme [Raft](https://raft.github.io/). Auteur.
 
 ## Autres présence
-* Twitter: @_dupdob_
+* Twitter: @\_dupdob\_
 * Autres présentations sur [Speakerdeck](https://speakerdeck.com/dupdob) et [Slideshare](https://fr.slideshare.net/CyrilleDUPUYDAUBY).
 * Je suis animateur de BBL, n'hésitez pas à me contacter pour que je vienne faire une conférence un midi sur Paris. 
 [BrownBagLunch.fr](http://www.brownbaglunch.fr/baggers.html)
