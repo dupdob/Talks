@@ -1,17 +1,19 @@
-# Résumé
+# Change Management en 15 minutes
+
+## Résumé
 le modèle de Lewin est un fondamental dans la gestion du changement et en plus il est simple (3 étapes).
 Je vais expliquer et illustrer les différents phase, en utilisant des retours d’expériences et exemples du monde réel.
 L’objectif est de désacraliser la gestion du changement (c’est pas si ésotérique et tout le monde y est confronté)
 et de donner quelques bases aux personnes présentes pour avoir des moyens d’anayse et d’action en cas de projet en
 difficulté.
 
-# Pour aller plus loin
+## Pour aller plus loin
 Vous trouverez ici quelques lien permettant d'explorer certains concepts évoqués durant la présentation.
 Vous êtes encouragés à creuser par vous même ceux qui vous intéressent.
-[Article résumant le modèle de Lewin](https://www.manager-go.com/gestion-de-projet/le-changement-par-lewin.htm)
-[Présentation du cycle du deuil](http://blog-fr.coaching-go.com/2012/03/cycle-de-deuil-et-gestion-du-changement-prise-en-compte-des-emotions/)
-[Présentation de la diffusion de l'innovation](https://academy.lotincorp.biz/la-diffusion-de-linnovation-strategies-pour-ladoption-de-produits/)
-[Gestion des parties prenantes](https://www.mybeeye.com/outils-gestion/parties-prenantes)
+* [Article résumant le modèle de Lewin](https://www.manager-go.com/gestion-de-projet/le-changement-par-lewin.htm)
+* [Présentation du cycle du deuil](http://blog-fr.coaching-go.com/2012/03/cycle-de-deuil-et-gestion-du-changement-prise-en-compte-des-emotions/)
+* [Présentation de la diffusion de l'innovation](https://academy.lotincorp.biz/la-diffusion-de-linnovation-strategies-pour-ladoption-de-produits/)
+* [Gestion des parties prenantes](https://www.mybeeye.com/outils-gestion/parties-prenantes)
 
 # Mes travaux
 ## [Blog](https://many-cores.com/)
@@ -37,7 +39,7 @@ importants. Mainteneur principal
 performante et fiable. Auteur.
 * [Rafting](https://github.com/dupdob/RAFTiNG): implémentation en C# de l'algorithme [Raft](https://raft.github.io/). Auteur.
 
-## Autres présence
+## Autres présences
 * Twitter: @\_dupdob\_
 * Autres présentations sur [Speakerdeck](https://speakerdeck.com/dupdob) et [Slideshare](https://fr.slideshare.net/CyrilleDUPUYDAUBY).
 * Je suis animateur de BBL, n'hésitez pas à me contacter pour que je vienne faire une conférence un midi sur Paris. 
