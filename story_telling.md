@@ -10,6 +10,7 @@ This presentation covers some basic reminders around the call for action, a deta
 2. La théorie du mythe: [The Heroe's journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
 3. Le moment star de Bill Gates (video): [Mosquito, Malaria and Education](https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education)
 4. Un classique (video): [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) (Simon Sinek)
+5. [Bio](./Bio.MD)
 
 
 ## Deck
