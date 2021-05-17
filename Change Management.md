@@ -1,4 +1,4 @@
-# Change Management en 15 minutes
+# Change Management
 
 ## Résumé
 le modèle de Lewin est un fondamental dans la gestion du changement et en plus il est simple (3 étapes).
