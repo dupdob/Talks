@@ -2,6 +2,8 @@
 Repository for my talks and various documents.
 
 # [Bio](Bio.MD)
+Here is my answers to the [Shirley's questions](Le%20questionnaire%20de%20Shirley%20-%20C.Dupuydauby.md).
+
 
 # BBLs
 This is a list of topics that are adapted to the BBL format.
